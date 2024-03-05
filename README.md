@@ -13,5 +13,3 @@ I'm currently diving into some programming languages 👀:
 Learning has been tricky, and I'm leaving all my projects here, big or small, to keep the journey real 😎!
 
 Oh, and if you like my vibe, give feedback on my projects. It means a lot to me 🫰🏾!
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
