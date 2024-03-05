@@ -1,15 +1,15 @@
-Hello, what's up?
+Hey, what's up?
 
-My name is Vinícius Ferreira Vitorino and you are more than welcome to visit my profile!
+I'm Vinícius Ferreira Vitorino, and you're relaxing on my profile!
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to connect!
+Feel free to check out my repositories and contact me if you have any questions or just want to hang out!
 
-I've worked for over 10 years as a video editor and filmmaker, and due to changes in my thinking over the years and also as a way of updating myself, I'm currently in a career transition.
+I've been in the field of video editing and directing for more than a decade, but now I'm having a change of scenery.
 
-The languages I'm learning are:
+I'm currently diving into some programming languages:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
                     
-I'm loving the learning process, and here I'll post all my projects, however small they may be, so that this journey is more than recorded!
+Learning has been tricky, and I'm leaving all my projects here, big or small, to keep the journey real!
 
-And of course, if it's not too much to ask, follow me here and rate my projects by leaving tips and comments as it will help me a lot!
+Oh, and if you like my vibe, give feedback on my projects. It means a lot to me!
